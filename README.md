@@ -19,6 +19,8 @@ Display: TFT LCD 1.8 128x160 (ST7735?)
 
 - [Operate 1.8 inch TFT on the ESP-32 Dev Kit C](https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/1-8-toll-tft-am-esp-32-dev-kit-c-betreiben)
 
+- [sukesh-ak/Arduino-Library-with-IDF: Integrating Arduino Library into ESP-IDF project](https://github.com/sukesh-ak/Arduino-Library-with-IDF)
+
 ## Resources
 
 Repository: https://github.com/lilliputten/esp32-tft-screen
@@ -28,6 +30,14 @@ See also:
 - [Changelog](CHANGELOG.md)
 
 ## Project maintenance
+
+### Components
+
+Components are installed as submodules, so use a command to deploy the project:
+
+```bash
+git clone --recurse-submodules --remote-submodules git@github.com:lilliputten/esp32-tft-screen.git
+```
 
 ### Installation
 
