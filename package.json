@@ -1,5 +1,5 @@
 {
-  "name": "esp32-tft-screen",
+  "name": "esp-idf-esp32-tft-screen",
   "description": "ESP32 TFT Screen Test Project",
   "version": "0.0.1",
   "timetag": "250515-2241",
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lilliputten/esp32-tft-screen.git"
+    "url": "git@github.com:lilliputten/esp-idf-esp32-tft-screen.git"
   },
   "bugs": {
-    "url": "git@github.com:lilliputten/esp32-tft-screen.git/issues"
+    "url": "git@github.com:lilliputten/esp-idf-esp32-tft-screen.git/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

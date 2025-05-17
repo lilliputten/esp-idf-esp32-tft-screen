@@ -7,7 +7,7 @@
 
 ## Build info (auto-generated)
 
-- Project info: esp32-tft-screen v.0.0.0 / 2025.05.15, 22:41 +0300
+- Project info: esp-idf-esp32-tft-screen v.0.0.0 / 2025.05.15, 22:41 +0300
 
 ## Hardware
 
@@ -23,7 +23,7 @@ Display: TFT LCD 1.8 128x160 (ST7735?)
 
 ## Resources
 
-Repository: https://github.com/lilliputten/esp32-tft-screen
+Repository: https://github.com/lilliputten/esp-idf-esp32-tft-screen
 
 See also:
 
@@ -36,7 +36,7 @@ See also:
 Components are installed as submodules, so use a command to deploy the project:
 
 ```bash
-git clone --recurse-submodules --remote-submodules git@github.com:lilliputten/esp32-tft-screen.git
+git clone --recurse-submodules --remote-submodules git@github.com:lilliputten/esp-idf-esp32-tft-screen.git
 ```
 
 ### Installation
